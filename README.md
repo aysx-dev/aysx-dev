@@ -2,11 +2,11 @@
 <h3 align="center">BTech Student | AI/ML Enthusiast | Builder Mindset</h3>
 
 <p align="center">
-  I enjoy experimenting with new technologies and turning ideas into real projects.  
-  Learning by building, breaking, and improving.
+Turning curiosity into code.  
+Building quietly. Learning loudly.
 </p>
 
----
+<p align="center">──────── ✦ ────────</p>
 
 ## ⚡ GitHub Stats
 
@@ -19,7 +19,7 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aysx-dev&theme=tokyo-night&hide_border=true" />
 </p>
 
----
+<p align="center">──────── ✦ ────────</p>
 
 ## 🧠 Tech Stack
 
@@ -35,9 +35,26 @@
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="48" height="48" />
 </p>
 
----
+<p align="center">──────── ✦ ────────</p>
 
-## 🤝 Connect With Me
+## 🚀 Featured Projects  
+*(Will keep updating as I build more)*
+
+- 🧠 **AI Notes Generator** – Python, NLP  
+- 🌐 **Portfolio Website** – React, CSS  
+- ⚙️ **Automation Workflows** – n8n  
+
+<p align="center">──────── ✦ ────────</p>
+
+## 🎯 Currently Learning
+
+- 🤖 Deep Learning  
+- 🧩 System Design  
+- 🌍 Open Source Contribution  
+
+<p align="center">──────── ✦ ────────</p>
+
+## 🌍 Connect & Collaborate
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_LINK">
@@ -54,9 +71,13 @@
   </a>
 </p>
 
----
+<p align="center">
+  🧩 Open to collaboration & learning together  
+</p>
+
+<p align="center">──────── ✦ ────────</p>
 
 <p align="center">
-  ⭐ Always learning. Always building.
+⭐ Always learning. Always building.
 </p>
 
