@@ -17,7 +17,7 @@ I’m always experimenting, learning, and iterating — most of my repositories 
 </td>
 <td width="40%" align="center">
 
-<img src="كل مشكلة ﻻ تنزل معك إلى القبر فليست مشكلة_.. وكل كرب ﻻ يصحبك إلى يوم القيامة فليس بكرب.. فهون عليك ..واستعد للأهم..!" width="100%" />
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
 
 </td>
 </tr>
@@ -47,7 +47,7 @@ I’m always experimenting, learning, and iterating — most of my repositories 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,docker,postgres,sqlite,git,github,linux,aws,figma,vscode,tensorflow,cpp,go" />
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,react,nextjs,nodejs,express,mongodb,python,docker,postgres,sqlite,git,github,linux,aws,figma,vscode,tensorflow,go" />
 
 </div>
 
@@ -65,11 +65,11 @@ I’m always experimenting, learning, and iterating — most of my repositories 
 
 ---
 
-## 🐍 Contribution Snake
+## 🔄 Contribution
 
 <div align="center">
 
-![snake gif](https://github.com/aysx-dev/aysx-dev/blob/output/github-contribution-grid-snake.svg)
+⏳ **Contribution — on the way… loading**
 
 </div>
 
@@ -80,5 +80,6 @@ I’m always experimenting, learning, and iterating — most of my repositories 
 ⚡ **Ayush • Developer • Python | Web | AI • Building useful tools**
 
 </div>
+>
 
 
