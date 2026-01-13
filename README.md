@@ -17,7 +17,7 @@ I’m always experimenting, learning, and iterating — most of my repositories 
 </td>
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
+<img src="كل مشكلة ﻻ تنزل معك إلى القبر فليست مشكلة_.. وكل كرب ﻻ يصحبك إلى يوم القيامة فليس بكرب.. فهون عليك ..واستعد للأهم..!" width="100%" />
 
 </td>
 </tr>
