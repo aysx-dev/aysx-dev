@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi 👋, I'm Ayush
 
-<!--
-**aysx-dev/aysx-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A BTech student in **AI/ML** who enjoys exploring and experimenting with new technologies.  
+I’m currently in my learning phase, learning by **working and implementing ideas**.  
+I like connecting with people, exchanging ideas, and learning from different perspectives.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages & Technologies
+
+### Languages
+- Python  
+- C  
+- C++  
+- JavaScript  
+- TypeScript  
+
+### Frontend
+- HTML  
+- CSS  
+- React  
+
+### Currently Learning / Exploring
+- AWS  
+- Docker  
+- MongoDB  
+- SQL  
+- n8n  
+
+---
+
+## 🤝 Connect with Me
+- 🔗 **LinkedIn**: https://www.linkedin.com/in/your-link  
+- 🐙 **GitHub**: https://github.com/your-username  
+- 🎮 **Discord**: your-discord-id  
+- 📸 **Instagram**: https://instagram.com/your-handle  
+
+---
+
+## 📊 GitHub Stats
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+
+---
+
+## ⚡ A little visual
+![coding](https://pin.it/6rHT8MMdm)
+
+---
+
+⭐ Always learning, always improving.
