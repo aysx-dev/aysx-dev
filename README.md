@@ -1,50 +1,66 @@
-# Hi 👋, I'm Ayush
+<h1 align="center">Hi 👋, I'm Ayush</h1>
 
-A BTech student in **AI/ML** who enjoys exploring and experimenting with new technologies.  
-I’m currently in my learning phase, learning by **working and implementing ideas**.  
+<p align="center">
+A BTech student in <b>AI/ML</b> who enjoys exploring and experimenting with new technologies.<br>
+Currently learning by <b>working and implementing ideas</b>.<br>
 I like connecting with people, exchanging ideas, and learning from different perspectives.
+</p>
 
 ---
 
-## 🛠️ Languages & Technologies
+## 📊 Stats ⚙️
 
-### Languages
-- Python  
-- C  
-- C++  
-- JavaScript  
-- TypeScript  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
 
-### Frontend
-- HTML  
-- CSS  
-- React  
-
-### Currently Learning / Exploring
-- AWS  
-- Docker  
-- MongoDB  
-- SQL  
-- n8n  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+</p>
 
 ---
 
-## 🤝 Connect with Me
-- 🔗 **LinkedIn**: https://www.linkedin.com/in/your-link  
-- 🐙 **GitHub**: https://github.com/your-username  
-- 🎮 **Discord**: your-discord-id  
-- 📸 **Instagram**: https://instagram.com/your-handle  
+## 🧠 Languages & Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css,react" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,mongodb,mysql" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,git,linux" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="48" height="48"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+## 🤝 Connect ⏳
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINK">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  <a href="https://instagram.com/YOUR_HANDLE">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
 
 ---
 
-## ⚡ A little visual
-![coding](https://pin.it/6rHT8MMdm)
+<p align="center">
+  <img src="https://pin.it/6rHT8MMdm" />
+</p>
 
----
-
-⭐ Always learning, always improving.
+⭐ Always learning. Always building.
