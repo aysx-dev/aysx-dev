@@ -1,87 +1,83 @@
-<h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">BTech Student | AI/ML Enthusiast | Builder Mindset</h3>
+<div align="center">
 
-<p align="center">
-Turning curiosity into code.  
-Building quietly. Learning loudly.
-</p>
+# 👋 Hi, I'm Ayush
 
-<!-- 🎥 ADD YOUR GIF PATH BELOW -->
-<p align="center">
-  <img src="كل مشكلة ﻻ تنزل معك إلى القبر فليست مشكلة_.. وكل كرب ﻻ يصحبك إلى يوم القيامة فليس بكرب.. فهون عليك ..واستعد للأهم..!" width="400"/>
-</p>
+⚡ Developer • Python | Web | AI • Building useful tools
 
-<p align="center">──────── ✦ ────────</p>
+</div>
 
-## ⚡ GitHub Stats
+---
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aysx-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aysx-dev&theme=tokyonight&hide_border=true" />
-</p>
+## 🔗 Connect With Me
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aysx-dev&theme=tokyo-night&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">──────── ✦ ────────</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aysx.dev@gmail.com)
 
-## 🧠 Tech Stack
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css,react&theme=dark" />
-</p>
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,mongodb,mysql,linux,git,github&theme=dark" />
-</p>
+## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="48" height="48" />
-</p>
+<div align="center">
+  
+![snake gif](https://github.com/aysx-dev/aysx-dev/blob/output/github-contribution-grid-snake.svg)
 
-<p align="center">──────── ✦ ────────</p>
+</div>
 
-## 🚀 Featured Projects
+---
 
-- 🧠 **AI Notes Generator** – Python, NLP  
-- 🌐 **Portfolio Website** – React  
-- ⚙️ **Automation Workflows** – n8n  
+## 📊 Stats ⚙️
 
-<p align="center">──────── ✦ ────────</p>
+<div align="center">
 
-## 🎯 Currently Learning
+<img src="https://github-readme-streak-stats.herokuapp.com?user=aysx-dev&theme=tokyonight&hide_border=true" />
 
-- 🤖 Deep Learning  
-- 🧩 System Design  
-- 🌍 Open Source Contribution  
+</div>
 
-<p align="center">──────── ✦ ────────</p>
+<div align="center">
 
-## 🌍 Connect & Collaborate
+<img src="https://github-readme-stats.vercel.app/api?username=aysx-dev&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINK">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
-  </a>
-  <a href="https://github.com/aysx-dev">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" />
-  </a>
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=discord&theme=dark" />
-  </a>
-  <a href="https://instagram.com/YOUR_HANDLE">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
-  </a>
-</p>
+</div>
 
-<p align="center">
-  🧩 Open to collaboration & learning together
-</p>
+---
 
-<p align="center">──────── ✦ ────────</p>
+## 👨‍💻 About Me
 
-<p align="center">
-⭐ Always learning. Always building.
-</p>
+<table>
+<tr>
+<td width="60%">
+
+Hi 👋 I’m **Ayush**, a Computer Science student focused on building useful and well-crafted software.  
+I enjoy working on full-stack applications, AI-powered projects, and developer tooling.
+
+I’m always experimenting, learning, and iterating — most of my repositories are prototypes, mini-projects, and hands-on builds that reflect my growth as a developer.
+
+- 🚀 Full-stack Development  
+- 🤖 AI & Automation  
+- 🛠️ Tooling & Developer Utilities  
+- 📚 Always learning & improving  
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 Languages & Skills
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,docker,postgres,sqlite,git,github,linux,aws,figma,vscode,tensorflow,cpp,go" />
+
+</div>
 
