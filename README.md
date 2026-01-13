@@ -1,51 +1,3 @@
-<div align="center">
-
-# 👋 Hi, I'm Ayush
-
-⚡ Developer • Python | Web | AI • Building useful tools
-
-</div>
-
----
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aysx.dev@gmail.com)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-![snake gif](https://github.com/aysx-dev/aysx-dev/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-## 📊 Stats ⚙️
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=aysx-dev&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aysx-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 👨‍💻 About Me
 
 <table>
@@ -73,6 +25,24 @@ I’m always experimenting, learning, and iterating — most of my repositories 
 
 ---
 
+## 📊 Stats ⚙️
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=aysx-dev&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aysx-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
 ## 🧠 Languages & Skills
 
 <div align="center">
@@ -80,4 +50,35 @@ I’m always experimenting, learning, and iterating — most of my repositories 
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,docker,postgres,sqlite,git,github,linux,aws,figma,vscode,tensorflow,cpp,go" />
 
 </div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aysx.dev@gmail.com)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/aysx-dev/aysx-dev/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+⚡ **Ayush • Developer • Python | Web | AI • Building useful tools**
+
+</div>
+
 
