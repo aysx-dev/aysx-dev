@@ -6,6 +6,11 @@ Turning curiosity into code.
 Building quietly. Learning loudly.
 </p>
 
+<!-- 🎥 ADD YOUR GIF PATH BELOW -->
+<p align="center">
+  <img src="PASTE_YOUR_GIF_PATH_HERE" width="400"/>
+</p>
+
 <p align="center">──────── ✦ ────────</p>
 
 ## ⚡ GitHub Stats
@@ -37,11 +42,10 @@ Building quietly. Learning loudly.
 
 <p align="center">──────── ✦ ────────</p>
 
-## 🚀 Featured Projects  
-*(Will keep updating as I build more)*
+## 🚀 Featured Projects
 
 - 🧠 **AI Notes Generator** – Python, NLP  
-- 🌐 **Portfolio Website** – React, CSS  
+- 🌐 **Portfolio Website** – React  
 - ⚙️ **Automation Workflows** – n8n  
 
 <p align="center">──────── ✦ ────────</p>
@@ -72,7 +76,7 @@ Building quietly. Learning loudly.
 </p>
 
 <p align="center">
-  🧩 Open to collaboration & learning together  
+  🧩 Open to collaboration & learning together
 </p>
 
 <p align="center">──────── ✦ ────────</p>
