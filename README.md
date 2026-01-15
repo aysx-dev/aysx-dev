@@ -23,7 +23,7 @@ Most of my repositories are **prototypes, mini-projects, and hands-on builds** t
 </td>
 <td width="40%" align="center">
 
-<img src="https://gif-finder.com/wp-content/uploads/2021/09/Mr-Bean-Waving-GIF.gif" width="260"/>
+<img src="_.jpg" width="260"/>
 
 </td>
 </tr>
