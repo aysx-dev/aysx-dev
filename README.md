@@ -23,7 +23,7 @@ Most of my repositories are **prototypes, mini-projects, and hands-on builds** t
 </td>
 <td width="40%" align="center">
 
-<img src="_.jpg" width="260"/>
+<img src="كل مشكلة ﻻ تنزل معك إلى القبر فليست مشكلة_.. وكل كرب ﻻ يصحبك إلى يوم القيامة فليس بكرب.. فهون عليك ..واستعد للأهم..!"/>
 
 </td>
 </tr>
