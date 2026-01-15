@@ -1,6 +1,6 @@
 <!-- ===================== TYPING HEADER ===================== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=700&color=00FF9C&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;CSE+Student;AI+%26+ML+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=700&color=00FF9C&center=true&vCenter=true&width=540&lines=Full+Stack+Developer;CSE+Student;AI+%26+ML+Enthusiast" />
 </h1>
 
 ---
@@ -10,20 +10,21 @@
 <tr>
 <td width="60%">
 
-Hi 👋 I'm **Shivam**, a Computer Science student focused on building useful and well-crafted software.  
-I enjoy working on **full-stack applications**, **AI-powered projects**, and **developer tooling**.
+Hi 👋 I’m **Ayush**, a **Computer Science (AI & ML) student** who enjoys turning ideas into practical software.  
+I work across **full-stack development** and **AI-driven projects**, focusing on writing clean, maintainable code and building things that actually solve real problems.
 
-Most of my repositories are **prototypes, mini-projects, and hands-on builds** that reflect my continuous learning and growth as a developer.
+Most of my repositories are **learning-driven projects, experiments, and hands-on implementations** that showcase my growth, curiosity, and continuous improvement as a developer.
 
-- 🚀 Full-stack Development  
-- 🤖 AI & Automation  
-- 🛠️ Tooling & Developer Utilities  
-- 🌱 Always learning & improving  
+### 🚀 Interests & Focus
+- 🌐 Full-stack Web Development  
+- 🤖 AI / Machine Learning  
+- ⚙️ Building practical tools & systems  
+- 📈 Continuous learning through projects  
 
 </td>
 <td width="40%" align="center">
 
-<img src="كل مشكلة ﻻ تنزل معك إلى القبر فليست مشكلة_.. وكل كرب ﻻ يصحبك إلى يوم القيامة فليس بكرب.. فهون عليك ..واستعد للأهم..!"/>
+<img src="https://gif-finder.com/wp-content/uploads/2021/09/Mr-Bean-Waving-GIF.gif" width="260"/>
 
 </td>
 </tr>
@@ -47,33 +48,29 @@ Most of my repositories are **prototypes, mini-projects, and hands-on builds** t
 </p>
 
 <p align="center">
-  📌 Consistency over intensity • 🚀 Learning by building • 🧠 Growing every commit
+  📌 Consistency over intensity • 🚀 Learning by building • 🧠 Growing one commit at a time
 </p>
 
 ---
 
-<!-- ===================== CONTRIBUTION ===================== -->
+<!-- ===================== CONTRIBUTION SNAKE ===================== -->
 <h2 align="center">🐍 Contribution Activity</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<p align="center">
-  Visual representation of my GitHub contribution journey
-</p>
-
 ---
 
-<!-- ===================== SKILLS ===================== -->
-<h2 align="center">🧠 Languages & Skills</h2>
+<!-- ===================== TECH STACKS ===================== -->
+<h2 align="center">🛠️ Tech Stacks & Tools</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,docker,linux,git,github,aws,cpp,tensorflow&theme=dark" />
 </p>
 
 <p align="center">
-  Frontend • Backend • Databases • DevOps • AI/ML
+  Frontend • Backend • Databases • DevOps • AI / ML
 </p>
 
 ---
@@ -99,8 +96,8 @@ Most of my repositories are **prototypes, mini-projects, and hands-on builds** t
 ---
 
 <p align="center">
-⚡ <b>SVXM</b> · Developer · Python | Web | AI · Building useful tools
-</p>
+⚡ <b>AYSX</b> · Developer · Python | Web | AI · Building useful tools
+</p>>
 
 
 
