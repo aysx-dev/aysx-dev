@@ -11,13 +11,14 @@
 <tr>
 <td width="60%">
 
-  Hi 👋 I’m Ayush, a Computer Science student focused on building useful and well-crafted software. I enjoy working on full-stack applications, AI-powered projects, and developer tooling. I’m always experimenting, learning, and iterating — most of my repositories are prototypes, mini-projects, and hands-on builds that reflect my growth as a developer.
-
-- 🚀 Full-stack Development  
-- 🤖 AI & Automation  
-- 🛠 Tooling & Developer Utilities  
-- 📚 Always learning & improving
-
+  Hi 👋 I’m Ayush, a Computer Science (AI & ML) student who enjoys turning ideas into practical software.
+I work across full-stack development and AI-driven projects, focusing on writing clean code and building things that actually solve problems.
+Most of my repositories are learning-driven projects, experiments, and implementations that showcase my progress and curiosity as a developer.
+Interests & Focus
+🌐 Full-stack Web Development
+🤖 AI / Machine Learning
+⚙️ Building practical tools & systems
+📈 Continuous learning through projects
 </td>
 
 <td width="35%">
