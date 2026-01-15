@@ -1,14 +1,7 @@
 <!-- ===================== TYPING HEADER ===================== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.vercel.app?font=JetBrains+Mono&size=28&duration=2500&pause=700&color=00FF9C&center=true&vCenter=true&width=650&lines=Ayush;Full+Stack+Developer;CSE+Student+(AI+%26+ML);Building+Things+That+Matter" />
+  <img src="https://readme-typing-svg.vercel.app?font=JetBrains+Mono&size=28&duration=2500&pause=700&color=00FF9C&center=true&vCenter=true&width=600&lines=Ayush;Full+Stack+Developer;CSE+Student+(AI+%26+ML);Building+Things+That+Matter" />
 </h1>
-
-<p align="center">
-  💻 Full-Stack Developer &nbsp;•&nbsp;
-  🎓 CSE (AI & ML) Student &nbsp;•&nbsp;
-  🤖 AI/ML Enthusiast &nbsp;•&nbsp;
-  🌍 Open-Source Contributor
-</p>
 
 ---
 
@@ -18,7 +11,7 @@
 <td width="60%">
 
 Hi 👋 I’m **Ayush**, a **Computer Science (AI & ML) student** who loves turning ideas into practical, real-world software 🚀.  
-I work across **full-stack development** and **AI-driven projects**, focusing on clean code, scalable design, and solutions that genuinely solve problems.
+I work across **full-stack development** and **AI-driven projects**, focusing on clean code, scalable design, and solutions that actually solve problems.
 
 Most of my repositories are **learning-driven projects, experiments, and hands-on implementations** that reflect my curiosity, consistency, and growth as a developer 🌱.
 
@@ -26,12 +19,12 @@ Most of my repositories are **learning-driven projects, experiments, and hands-o
 - 🌐 Full-stack Web Development  
 - 🤖 Artificial Intelligence & Machine Learning  
 - ⚙️ Building practical tools & systems  
-- 📈 Learning by building & contributing  
+- 📈 Learning by building & breaking things  
 
 </td>
 <td width="40%" align="center">
 
-<img src="كل مشكلة ﻻ تنزل معك إلى القبر فليست مشكلة_.. وكل كرب ﻻ يصحبك إلى يوم القيامة فليس بكرب.. فهون عليك ..واستعد للأهم..!" width="260"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
 
 </td>
 </tr>
@@ -43,19 +36,19 @@ Most of my repositories are **learning-driven projects, experiments, and hands-o
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aysx-dev&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_HERE&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aysx-dev&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=USERNAME_HERE&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysx-dev&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_HERE&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  🚀 Consistency > Motivation &nbsp;•&nbsp; 🧠 Learning every day &nbsp;•&nbsp; 💻 Code. Break. Fix. Repeat.
+  🚀 Consistency > Motivation • 🧠 Learning every day • 💻 Code. Break. Fix. Repeat.
 </p>
 
 ---
@@ -92,10 +85,10 @@ Most of my repositories are **learning-driven projects, experiments, and hands-o
   <a href="https://twitter.com/">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="mailto:svxm.h4x@gmail.com">
+  <a href="mailto:yourmail@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://github.com/aysx-dev">
+  <a href="https://github.com/USERNAME_HERE">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
@@ -103,7 +96,7 @@ Most of my repositories are **learning-driven projects, experiments, and hands-o
 ---
 
 <p align="center">
-Developer · Python · C · C++ | Web | AI · Building useful tools
-</p>
+⚡ <b>AYSX</b> · Developer · C | C++ | Web | AI · Learning by building
+</p>>
 
 
